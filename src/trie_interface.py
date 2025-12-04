@@ -1,4 +1,4 @@
-# Interface for Trie data structure, UNFINISHED
+# Interface for Trie data structure
 from __future__ import annotations
 from typing import Protocol, Optional
 

@@ -14,7 +14,7 @@ The application will begin by providing 10 sample contacts, from there you can n
 
 # Screenshots/Demos
 
-# Tree Implementation Details - UNfin
+# Tree Implementation Details
 The tree that was implemented is the Trie structure. The structure works by storing each letter of a string as a node in a tree, then end of a name is marked at the last node of a name. This allows for easy name searching along with auto complete by prefixes. The key operations are insert, search, remove, and autocomplete. 
 
 Insert: 
