@@ -1,5 +1,5 @@
 # Jordan Fasolt-Holmes
-# Project Title and Description
+# Phonebook Application Description
 The tree I implemented was a Trie. I chose a trie because, by design, it makes autocomplete much easier. My application is a simple interface that allows a user to add, delete, and search for contacts. When searching, the application uses a trie to show auto complete suggestions for contact names. Typically, those that will benefit the most from this tool are people that need a lightweight, autocomplete tool for managing large lists of people or contact info.
 
 # Installation and Setup
